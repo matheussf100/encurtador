@@ -1,7 +1,5 @@
-function App() {
-  return (
-    <div>Encur</div>
-  );
-}
+import Routes from './routes';
+
+const App = () => <Routes />;
 
 export default App;
